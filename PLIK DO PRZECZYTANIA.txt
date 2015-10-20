@@ -1,0 +1,5 @@
+Generalnie to or³em programowania nie jestem, wiêc siê doœæ wzorowa³em na Pana kodzie,
+a co po swojemu pisywa³em, to IntelliJ zwykle zmienia³ w to co Pan napisa³(bo na
+moim czêsto siê krzaczy³o). Trochê powêdkowa³em równie¿ w Googlach, ale w razie czego wiem,
+co jak dzia³a w 90% przypadków. Jestem w stanie poci¹gn¹æ dalej funcje w programie, ale
+wysy³am w formie w jakiej dzia³a.
