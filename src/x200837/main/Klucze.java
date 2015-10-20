@@ -5,6 +5,5 @@ package x200837.main;
  */
 public class Klucze
 {
-    public static final String FILE = "plik";
-    public static final String PAGE = "strona";
+    public static final String FILE_PAGE = "plik";
 }

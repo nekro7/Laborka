@@ -13,13 +13,9 @@ import static x200837.main.Klucze.*;
 public class Main {
     public static void main(String[] args) {
         Konfiguracja konfig = new Konfiguracja(args[0]);
-        //FileReader a = new FileReader(konfig.getProperty(Klucze.FILE));
-        System.out.println(konfig.getProperty(FILE));
-        //new Worker(ReaderChooser.create(konfig.getProperty(FILE))).getLinks();
-        AbstractReader a;
-        a =  ReaderChooser.stworz(konfig.getProperty(FILE));
-        //Worker.getLinks
-        Worker.getLinks(a.wczytaj(konfig.getProperty(FILE)));
+        System.out.println(konfig.getProperty(FILE_PAGE));
+        AbstractReader a =  ReaderChooser.stworz(konfig.getProperty(FILE_PAGE));
+        Worker.getLinks(a.wczytaj(konfig.getProperty(FILE_PAGE)));
     }
 
 }
