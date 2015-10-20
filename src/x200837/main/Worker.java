@@ -49,6 +49,7 @@ public class Worker
         System.out.println("Znaleziono "+counter+" linkow.");
 
 
+
     }
 
 }
